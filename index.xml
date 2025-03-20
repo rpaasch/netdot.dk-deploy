@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rasmus Paasch</title>
+    <link>https://netdot.dk/</link>
+    <description>Recent content on Rasmus Paasch</description>
+    <generator>Hugo</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Wed, 05 Mar 2025 14:30:00 +0100</lastBuildDate>
+    <atom:link href="https://netdot.dk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://netdot.dk/contact/</link>
+      <pubDate>Wed, 05 Mar 2025 14:30:00 +0100</pubDate>
+      <guid>https://netdot.dk/contact/</guid>
+      <description>&lt;h2 id=&#34;kontakt-mig&#34;&gt;Kontakt Mig&lt;/h2&gt;&#xA;&lt;p&gt;Har du spørgsmål, forslag til samarbejde eller bare lyst til at sige hej? Jeg hører gerne fra dig!&lt;/p&gt;&#xA;&lt;h3 id=&#34;kontaktoplysninger&#34;&gt;Kontaktoplysninger&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;E-mail&lt;/strong&gt;: &lt;a href=&#34;mailto:rasmus@netdot.dk&#34;&gt;rasmus@netdot.dk&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telefon&lt;/strong&gt;: +45 xx xx xx xx&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/DIT-NAVN&#34;&gt;linkedin.com/in/DIT-NAVN&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/DIT-GITHUB-BRUGERNAVN&#34;&gt;github.com/DIT-GITHUB-BRUGERNAVN&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;kontaktformular&#34;&gt;Kontaktformular&lt;/h3&gt;&#xA;&lt;p&gt;Du kan også udfylde formularen nedenfor, så vender jeg tilbage hurtigst muligt.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/DIN-FORMSPREE-ID&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;      An email address is required.&#xA;    &lt;/div&gt;&#xA;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xA;&#xA;&lt;/form&gt;&#xA;&#xA;&lt;h3 id=&#34;placering&#34;&gt;Placering&lt;/h3&gt;&#xA;&lt;p&gt;Jeg er baseret i København, Danmark, men arbejder remote for kunder over hele verden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projekter</title>
+      <link>https://netdot.dk/projects/</link>
+      <pubDate>Wed, 05 Mar 2025 14:00:00 +0100</pubDate>
+      <guid>https://netdot.dk/projects/</guid>
+      <description>&lt;h2 id=&#34;mine-projekter&#34;&gt;Mine Projekter&lt;/h2&gt;&#xA;&lt;p&gt;Her er et udvalg af projekter, jeg har arbejdet på gennem årene.&lt;/p&gt;&#xA;&lt;h3 id=&#34;personlig-hjemmeside&#34;&gt;Personlig hjemmeside&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Teknologier&lt;/strong&gt;: Hugo, HTML, CSS, JavaScript&lt;/p&gt;&#xA;&lt;p&gt;En tilgængelig hjemmeside bygget med Hugo-frameworket med fokus på enkelt design og hurtig indlæsning. Implementeret med skip-links og andre tilgængelighedsfunktioner for at sikre, at siden kan bruges af alle.&lt;/p&gt;&#xA;&lt;h3 id=&#34;projekt-management-system&#34;&gt;Projekt Management System&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Teknologier&lt;/strong&gt;: React, Node.js, MongoDB&lt;/p&gt;&#xA;&lt;p&gt;Et webbaseret projektstyringssystem udviklet til at hjælpe teams med at organisere opgaver, følge fremskridt og samarbejde effektivt. Systemet inkluderer features som Kanban-boards, tidsregistrering, og automatiserede rapporter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://netdot.dk/first-post/</link>
+      <pubDate>Tue, 04 Mar 2025 22:21:32 +0100</pubDate>
+      <guid>https://netdot.dk/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>https://netdot.dk/second-post/</link>
+      <pubDate>Tue, 04 Mar 2025 22:21:32 +0100</pubDate>
+      <guid>https://netdot.dk/second-post/</guid>
+      <description>&lt;p&gt;Det er i dag en et &lt;em&gt;solskinsvejr&amp;quot;&lt;/em&gt; og fuglene synger.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Om Mig</title>
+      <link>https://netdot.dk/about/</link>
+      <pubDate>Tue, 04 Mar 2025 12:00:00 +0100</pubDate>
+      <guid>https://netdot.dk/about/</guid>
+      <description>&lt;h2 id=&#34;velkommen-til-min-profil&#34;&gt;Velkommen til min profil&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel turpis nec purus laoreet facilisis. Donec feugiat, purus at tristique consectetur, est lorem suscipit nunc, nec vestibulum lectus ipsum non mi.&lt;/p&gt;&#xA;&lt;h3 id=&#34;baggrund&#34;&gt;Baggrund&lt;/h3&gt;&#xA;&lt;p&gt;Vestibulum ullamcorper lacus eu urna dignissim, nec laoreet libero vulputate. Nullam eget tristique libero. Integer tincidunt lacus sit amet purus luctus, sed efficitur mi tincidunt. Duis efficitur, justo eget pellentesque aliquet, nunc est feugiat turpis, eu posuere ex magna et lorem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
