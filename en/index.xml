@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rasmus Paasch</title>
+    <link>https://netdot.dk/en/</link>
+    <description>Recent content on Rasmus Paasch</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 14:30:00 +0100</lastBuildDate>
+    <atom:link href="https://netdot.dk/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://netdot.dk/en/contact/</link>
+      <pubDate>Wed, 05 Mar 2025 14:30:00 +0100</pubDate>
+      <guid>https://netdot.dk/en/contact/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;I am always open to exciting projects, collaboration opportunities, or just a professional conversation about accessibility, technology, and learning.&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Name&lt;/strong&gt;: Rasmus Paasch&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: Dyssegårdsvej 42, st., 2870 Dyssegård, Denmark&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +45 2360 4085&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:rp@netdot.dk&#34;&gt;rp@netdot.dk&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;professional-interests&#34;&gt;Professional Interests&lt;/h3&gt;&#xA;&lt;p&gt;My primary professional interests and areas of expertise include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Digital technologies for people with visual impairments&lt;/li&gt;&#xA;&lt;li&gt;Web accessibility (WCAG)&lt;/li&gt;&#xA;&lt;li&gt;3D printing and additive manufacturing for education&lt;/li&gt;&#xA;&lt;li&gt;Virtual Reality (VR) and Augmented Reality (AR) in learning contexts&lt;/li&gt;&#xA;&lt;li&gt;Special education and technology&lt;/li&gt;&#xA;&lt;li&gt;Digital educational resources&lt;/li&gt;&#xA;&lt;li&gt;Programming (Python, Ruby, JavaScript, PHP)&lt;/li&gt;&#xA;&lt;li&gt;System administration (Windows, Linux, Mac)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h3&gt;&#xA;&lt;p&gt;I am happy to collaborate on:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://netdot.dk/en/projects/</link>
+      <pubDate>Wed, 05 Mar 2025 14:00:00 +0100</pubDate>
+      <guid>https://netdot.dk/en/projects/</guid>
+      <description>&lt;h2 id=&#34;professional-projects&#34;&gt;Professional Projects&lt;/h2&gt;&#xA;&lt;p&gt;Here is a selection of projects I&amp;rsquo;ve worked on throughout my career.&lt;/p&gt;&#xA;&lt;h3 id=&#34;t4vis-in3d-trainers-for-visually-impaired-students-introduce-3d-printing&#34;&gt;T4VIS-In3D (Trainers for visually impaired students introduce 3D printing)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;International Project Management | Erasmus+&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As project manager on this Erasmus+ project, I worked with an international team to develop tactile 3D-printed teaching materials for the blind. The project focused on providing educators with tools and methods to create accessible learning materials through additive manufacturing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;vr4vip-virtual-reality-for-visually-impaired-people&#34;&gt;VR4VIP (Virtual Reality for Visually Impaired People)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Innovation | Accessibility&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tactile 3D Printing for the Blind and Visually Impaired</title>
+      <link>https://netdot.dk/en/first-post/</link>
+      <pubDate>Tue, 04 Mar 2025 22:21:32 +0100</pubDate>
+      <guid>https://netdot.dk/en/first-post/</guid>
+      <description>&lt;h2 id=&#34;the-future-of-tactile-learning-materials&#34;&gt;The Future of Tactile Learning Materials&lt;/h2&gt;&#xA;&lt;p&gt;As project manager on the Erasmus+ project T4VIS-In3D (Trainers for visually impaired students introduce 3D printing), I worked with international partners to develop innovative tactile learning materials for the blind and visually impaired.&lt;/p&gt;&#xA;&lt;p&gt;Traditional tactile materials have often been limited to simple 2D representations. With 3D printing, we can now create detailed models that add a whole new dimension to teaching. It gives people with visual impairments the opportunity to &amp;ldquo;see&amp;rdquo; complex concepts through touch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Reality in Rehabilitation of the Visually Impaired</title>
+      <link>https://netdot.dk/en/second-post/</link>
+      <pubDate>Tue, 04 Mar 2025 22:21:32 +0100</pubDate>
+      <guid>https://netdot.dk/en/second-post/</guid>
+      <description>&lt;h2 id=&#34;new-horizons-with-vr4vip&#34;&gt;New Horizons with VR4VIP&lt;/h2&gt;&#xA;&lt;p&gt;In the VR4VIP project (Virtual Reality for Visually Impaired People), we are exploring how Virtual Reality (VR) and Augmented Reality (AR) can be used in rehabilitation and education of people with visual impairments.&lt;/p&gt;&#xA;&lt;p&gt;While many initially think that VR is primarily a visual technology, our research shows that the immersive properties of VR can be utilized in surprising ways for people with impaired vision:&lt;/p&gt;&#xA;&lt;h3 id=&#34;innovative-applications&#34;&gt;Innovative Applications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Enhanced viewing&lt;/strong&gt;: For people with low vision, VR headsets can enhance contrasts, colors, and magnify objects&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;3D soundscapes&lt;/strong&gt;: Spatial audio can be used for orientation and mobility training in safe, virtual environments&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Haptic feedback&lt;/strong&gt;: Combining VR with haptic controllers provides tactile feedback that can compensate for impaired vision&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AR as vision support&lt;/strong&gt;: Augmented Reality can highlight edges, doors, and obstacles in the real world&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The technology is developing rapidly, and we are on the threshold of an exciting new era where digital tools can create unprecedented opportunities for people with visual impairments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://netdot.dk/en/about/</link>
+      <pubDate>Tue, 04 Mar 2025 12:00:00 +0100</pubDate>
+      <guid>https://netdot.dk/en/about/</guid>
+      <description>&lt;h2 id=&#34;rasmus-paasch&#34;&gt;Rasmus Paasch&lt;/h2&gt;&#xA;&lt;p&gt;I am a specialist in digital technologies with a particular focus on accessibility, education, and leadership. With a background as a teacher and deep technical insight, I combine pedagogy and technology in my work.&lt;/p&gt;&#xA;&lt;h3 id=&#34;professional-background&#34;&gt;Professional Background&lt;/h3&gt;&#xA;&lt;p&gt;I currently work as an ICT consultant at IBOS - The Institute for the Blind and Partially Sighted in Hellerup, Denmark, where I assess assistive technologies for visually impaired citizens. I have previously been a project manager on international Erasmus+ projects on tactile 3D-printed teaching materials and Virtual Reality for the visually impaired.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

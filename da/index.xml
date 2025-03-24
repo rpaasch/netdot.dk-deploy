@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rasmus Paasch</title>
+    <link>https://netdot.dk/da/</link>
+    <description>Recent content on Rasmus Paasch</description>
+    <generator>Hugo</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Wed, 05 Mar 2025 14:30:00 +0100</lastBuildDate>
+    <atom:link href="https://netdot.dk/da/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://netdot.dk/da/contact/</link>
+      <pubDate>Wed, 05 Mar 2025 14:30:00 +0100</pubDate>
+      <guid>https://netdot.dk/da/contact/</guid>
+      <description>&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;&#xA;&lt;p&gt;Jeg er altid åben for spændende projekter, samarbejdsmuligheder eller bare en faglig snak om tilgængelighed, teknologi og læring.&lt;/p&gt;&#xA;&lt;h3 id=&#34;kontaktoplysninger&#34;&gt;Kontaktoplysninger&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Navn&lt;/strong&gt;: Rasmus Paasch&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Adresse&lt;/strong&gt;: Dyssegårdsvej 42, st., 2870 Dyssegård&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telefon&lt;/strong&gt;: +45 2360 4085&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;E-mail&lt;/strong&gt;: &lt;a href=&#34;mailto:rp@netdot.dk&#34;&gt;rp@netdot.dk&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;faglige-interesser&#34;&gt;Faglige interesser&lt;/h3&gt;&#xA;&lt;p&gt;Mine primære faglige interesser og kompetenceområder omfatter:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Digitale teknologier for personer med synshandicap&lt;/li&gt;&#xA;&lt;li&gt;Webtilgængelighed (WCAG)&lt;/li&gt;&#xA;&lt;li&gt;3D-print og additiv fremstilling til undervisning&lt;/li&gt;&#xA;&lt;li&gt;Virtual Reality (VR) og Augmented Reality (AR) i læringssammenhænge&lt;/li&gt;&#xA;&lt;li&gt;Specialpædagogik og teknologi&lt;/li&gt;&#xA;&lt;li&gt;Digitale undervisningsmidler&lt;/li&gt;&#xA;&lt;li&gt;Programmering (Python, Ruby, JavaScript, PHP)&lt;/li&gt;&#xA;&lt;li&gt;Systemadministration (Windows, Linux, Mac)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;samarbejde&#34;&gt;Samarbejde&lt;/h3&gt;&#xA;&lt;p&gt;Jeg samarbejder gerne omkring:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projekter</title>
+      <link>https://netdot.dk/da/projects/</link>
+      <pubDate>Wed, 05 Mar 2025 14:00:00 +0100</pubDate>
+      <guid>https://netdot.dk/da/projects/</guid>
+      <description>&lt;h2 id=&#34;faglige-projekter&#34;&gt;Faglige projekter&lt;/h2&gt;&#xA;&lt;p&gt;Her er et udvalg af projekter, jeg har arbejdet med gennem min karriere.&lt;/p&gt;&#xA;&lt;h3 id=&#34;t4vis-in3d-trainers-for-visually-impaired-students-introduce-3d-printing&#34;&gt;T4VIS-In3D (Trainers for visually impaired students introduce 3D printing)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;International projektledelse | Erasmus+&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Som projektleder på dette Erasmus+-projekt arbejdede jeg med et internationalt team for at udvikle taktile 3D-printede læremidler til blinde. Projektet fokuserede på at give undervisere værktøjer og metoder til at skabe tilgængelige læringsmaterialer gennem additiv fremstilling.&lt;/p&gt;&#xA;&lt;h3 id=&#34;vr4vip-virtual-reality-for-visually-impaired-people&#34;&gt;VR4VIP (Virtual Reality for Visually Impaired People)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Innovation | Tilgængelighed&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Taktil 3D-print til blinde og svagsynede</title>
+      <link>https://netdot.dk/da/first-post/</link>
+      <pubDate>Tue, 04 Mar 2025 22:21:32 +0100</pubDate>
+      <guid>https://netdot.dk/da/first-post/</guid>
+      <description>&lt;h2 id=&#34;fremtiden-for-taktile-læremidler&#34;&gt;Fremtiden for taktile læremidler&lt;/h2&gt;&#xA;&lt;p&gt;Som projektleder på Erasmus+-projektet T4VIS-In3D (Trainers for visually impaired students introduce 3D printing) har jeg arbejdet med internationale partnere om at udvikle innovative taktile læremidler til blinde og svagsynede.&lt;/p&gt;&#xA;&lt;p&gt;Traditionelle taktile materialer har ofte været begrænset til simple 2D-repræsentationer. Med 3D-print kan vi nu skabe detaljerede modeller, der giver en helt ny dimension til undervisningen. Det giver personer med synshandicap mulighed for at &amp;ldquo;se&amp;rdquo; komplekse koncepter gennem følesansen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtual Reality i rehabilitering af synshandicappede</title>
+      <link>https://netdot.dk/da/second-post/</link>
+      <pubDate>Tue, 04 Mar 2025 22:21:32 +0100</pubDate>
+      <guid>https://netdot.dk/da/second-post/</guid>
+      <description>&lt;h2 id=&#34;nye-horisonter-med-vr4vip&#34;&gt;Nye horisonter med VR4VIP&lt;/h2&gt;&#xA;&lt;p&gt;I projektet VR4VIP (Virtual Reality for Visually Impaired People) udforsker vi, hvordan Virtual Reality (VR) og Augmented Reality (AR) kan anvendes i rehabilitering og uddannelse af personer med synshandicap.&lt;/p&gt;&#xA;&lt;p&gt;Mens mange umiddelbart tænker, at VR primært er en visuel teknologi, viser vores forskning, at de immersive egenskaber ved VR kan udnyttes på overraskende måder for personer med nedsat syn:&lt;/p&gt;&#xA;&lt;h3 id=&#34;innovative-anvendelser&#34;&gt;Innovative anvendelser&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Forstærket visning&lt;/strong&gt;: For personer med nedsat syn kan VR-headsets forstærke kontraster, farver og forstørre objekter&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;3D-lydscapes&lt;/strong&gt;: Spatial audio kan bruges til orienterings- og mobilitetstræning i sikre, virtuelle miljøer&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Haptisk feedback&lt;/strong&gt;: Kombination af VR med haptiske controllere giver taktil feedback, der kan kompensere for nedsat syn&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AR som synsstøtte&lt;/strong&gt;: Augmented Reality kan fremhæve kanter, døre og forhindringer i den virkelige verden&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Teknologien udvikler sig hurtigt, og vi står på tærsklen til en spændende ny æra, hvor digitale værktøjer kan skabe hidtil usete muligheder for personer med synshandicap.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Om Mig</title>
+      <link>https://netdot.dk/da/about/</link>
+      <pubDate>Tue, 04 Mar 2025 12:00:00 +0100</pubDate>
+      <guid>https://netdot.dk/da/about/</guid>
+      <description>&lt;h2 id=&#34;rasmus-paasch&#34;&gt;Rasmus Paasch&lt;/h2&gt;&#xA;&lt;p&gt;Jeg er specialist i digitale teknologier med særligt fokus på tilgængelighed, undervisning og ledelse. Med baggrund som lærer og en dyb teknisk indsigt kombinerer jeg pædagogik og teknologi i mit arbejde.&lt;/p&gt;&#xA;&lt;h3 id=&#34;professionel-baggrund&#34;&gt;Professionel baggrund&lt;/h3&gt;&#xA;&lt;p&gt;Jeg arbejder i dag som IKT-konsulent ved IBOS - Instituttet for Blinde og Svagsynede i Hellerup, hvor jeg udreder hjælpemidler til svagsynede borgere. Jeg har tidligere været projektleder på internationale Erasmus+-projekter om taktile 3D-printede læremidler og Virtual Reality for synshandicappede.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
